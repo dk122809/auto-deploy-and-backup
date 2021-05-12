@@ -1,6 +1,6 @@
 This script will help you in automation of build, backup and deployment process.
 
-## How to ue
+## How to use
 
 1) Take a clone https://github.com/dk122809/auto-deploy-and-backup.git
 
