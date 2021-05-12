@@ -2,7 +2,7 @@ This script will help you in automation of build, backup and deployment process.
 
 ## How to ue
 
-1) Take a clone 
+1) Take a clone https://github.com/dk122809/auto-deploy-and-backup.git
 
 2) Generate SSH Keygen and add it into github or gitlab
 
